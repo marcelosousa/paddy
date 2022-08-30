@@ -1,3 +1,3 @@
 # paddy
 
-This project aims to try out [reviewpad](https://reviewpad.com) :raised_hands:
+This project is used to play with [reviewpad](https://reviewpad.com) :raised_hands:
